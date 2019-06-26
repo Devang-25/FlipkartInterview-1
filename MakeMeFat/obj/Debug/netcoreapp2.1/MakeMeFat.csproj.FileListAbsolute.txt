@@ -1,0 +1,12 @@
+C:\Mani\Flikart\MakeMeFat\bin\Debug\netcoreapp2.1\MakeMeFat.deps.json
+C:\Mani\Flikart\MakeMeFat\bin\Debug\netcoreapp2.1\MakeMeFat.runtimeconfig.json
+C:\Mani\Flikart\MakeMeFat\bin\Debug\netcoreapp2.1\MakeMeFat.runtimeconfig.dev.json
+C:\Mani\Flikart\MakeMeFat\bin\Debug\netcoreapp2.1\MakeMeFat.dll
+C:\Mani\Flikart\MakeMeFat\bin\Debug\netcoreapp2.1\MakeMeFat.pdb
+C:\Mani\Flikart\MakeMeFat\obj\Debug\netcoreapp2.1\MakeMeFat.csproj.CoreCompileInputs.cache
+C:\Mani\Flikart\MakeMeFat\obj\Debug\netcoreapp2.1\MakeMeFat.AssemblyInfoInputs.cache
+C:\Mani\Flikart\MakeMeFat\obj\Debug\netcoreapp2.1\MakeMeFat.AssemblyInfo.cs
+C:\Mani\Flikart\MakeMeFat\obj\Debug\netcoreapp2.1\MakeMeFat.dll
+C:\Mani\Flikart\MakeMeFat\obj\Debug\netcoreapp2.1\MakeMeFat.pdb
+C:\Mani\Flikart\MakeMeFat\obj\Debug\netcoreapp2.1\MakeMeFat.csprojAssemblyReference.cache
+C:\Mani\Flikart\MakeMeFat\bin\Debug\netcoreapp2.1\NLog.config

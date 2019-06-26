@@ -1,0 +1,15 @@
+2019-06-20 12:31:48.9429 Info Message Template Auto Format enabled
+2019-06-20 12:31:49.1203 Info Adding target FileTarget(Name=target1)
+2019-06-20 12:31:49.1203 Info Adding target ConsoleTarget(Name=target2)
+2019-06-20 12:31:49.2268 Info Found 33 configuration items
+2019-06-20 12:31:49.2570 Info Configuration initialized.
+2019-06-20 12:31:49.2794 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.5.10245. Product version: 4.6.5.
+2019-06-20 12:32:01.9503 Info Shutdown() called. Logger closing...
+2019-06-20 12:32:01.9884 Info Closing old configuration.
+2019-06-20 12:32:02.2190 Info Logger has been closed down.
+2019-06-21 11:39:41.4389 Info Message Template Auto Format enabled
+2019-06-21 11:39:41.5363 Info Adding target FileTarget(Name=target1)
+2019-06-21 11:39:41.5440 Info Adding target ConsoleTarget(Name=target2)
+2019-06-21 11:39:41.5926 Info Found 33 configuration items
+2019-06-21 11:39:41.6102 Info Configuration initialized.
+2019-06-21 11:39:41.6218 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.5.10245. Product version: 4.6.5.

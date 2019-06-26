@@ -1,0 +1,4 @@
+2019/06/20 12:31:49.414|DEBUG|Doing hard work! Action1 |MakeMeFat.Runner|Action=Action1, EventId_Id=20, EventId=20
+2019/06/20 12:31:51.480|INFO|User Selected : a |MakeMeFat.UserAction|
+2019/06/20 12:31:58.421|INFO|User Selected : e |MakeMeFat.UserAction|
+2019/06/21 11:39:41.676|DEBUG|Doing hard work! Action1 |MakeMeFat.Runner|Action=Action1, EventId_Id=20, EventId=20
